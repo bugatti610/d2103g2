@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .container{
-    width: 1600px;
+    width: 1200px;
     height: 5800px;
     background: black;
     padding: 0px;
@@ -19,7 +19,7 @@
      display: inline-block;
 }
 .box-1{
-    width: 150px;
+    width: 170px;
     height: 50px;
     float: right;
     text-align: center;
